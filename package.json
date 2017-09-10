@@ -34,7 +34,6 @@
   "file": [
     "assets",
     "css/**/*.css",
-    "Gruntfile.js",
     "js/**/*.js",
     "templates/**/*.html"
   ],
